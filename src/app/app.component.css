@@ -1,0 +1,87 @@
+h1{
+    color:black;
+    font-weight:bold;
+    font-size: 30px;
+}
+h2{
+    color:darkblue;
+    font-size: 20px;
+}
+
+p{
+    color:brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+#dropdownBidNotifyType{
+  color: white;
+  background-color: black;
+}
+.form-select{
+  color: white;
+  background-color: black;
+}
+#texthome{
+  color: navy;
+}
+.nav-pills .nav-link{
+  border: none;
+  background: white;
+  text-align: left;
+  border-bottom: 1px solid #0000002e;
+  border-radius: 0;
+  padding: 20px;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+  color: orange;
+}
+.main-table{
+  background: #ededed;
+}
+.card.card-custom.border{
+  padding:30px 0;
+  border-radius:20px
+}
+.btn-search{
+  background: #ededed;
+  border: 1px solid #a9a0a0;
+  border-radius:10px;
+  width: 100px;
+  padding:10px;
+}
+.form-search{
+  margin: 0 20px;
+}
+.export-excel button{
+  border: 1px dashed;
+  color: #122f0f;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin: 0 20px;
+}
+.modal-special button{
+  background: white;
+  color: black;
+  border: 1px solid #a29595;
+  padding: 12px;
+  margin-right: 21px;
+}
+#cloud_upload, #Delete{
+  color: silver;
+}
+mat-icon{
+  margin-right: 15px;
+}
+#button-icon{
+  background: white;
+  color: silver;
+}
+.example-button {
+  display: block;
+}
+.example-disabled-checkbox {
+  margin-left: 8px;
+}
